@@ -3,7 +3,4 @@
 ![profile](imgs/백준프로필2.PNG)
 [백준 프로필 바로가기](https://www.acmicpc.net/user/ksi076)
 
----
 
-## 프로그래머스 프로필
-[프로그래머스 프로필 바로가기](https://programmers.co.kr/users/challenge-activity)
