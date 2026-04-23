@@ -1,8 +1,7 @@
 ## 솔브드AC 프로필
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=ksi076)](https://solved.ac/profile/ksi076)
 
-<img src="http://mazandi.herokuapp.com/api?ksi076=ksi076&theme=warm"/>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksi076&layout=compact)
 ---
 
 
