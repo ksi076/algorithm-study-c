@@ -1,5 +1,5 @@
 ## 솔브드AC 프로필
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksi076)](https://solved.ac/profile/ksi076)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=ksi076)](https://solved.ac/profile/ksi076)
 
 ---
 
